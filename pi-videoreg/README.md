@@ -9,3 +9,7 @@ Main repository: https://github.com/videoreg/pi-videoreg
 - For windshield angle `~28°`. Tested on VW Tiguan 2
 - Recommended material `PETG`
 - Aviod using PLA due to high temp
+
+[Open assembly.png](assembly.png)
+
+<img src="assembly.png" width="300"/>
